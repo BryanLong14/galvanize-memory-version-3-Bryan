@@ -68,4 +68,4 @@ Deploy this API. Note that you'll need to create a remote database, run your mig
 
 * You can test your API locally with `npm test`
 
-Add a link to your [deployed API]() here.
+Add a link to your [deployed API](https://calm-fjord-77556.herokuapp.com/ | https://git.heroku.com/calm-fjord-77556.git) here.
